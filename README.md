@@ -91,7 +91,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ### Books
 * Processor Microarchitecture: An Implementation Perspective, A. Gonzalez : Starting book 
 * Computer Organization and Design - RISC-V Edition, Patterson & Henessy : First book
-*Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced
+* Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced
 
 ### Free resources
 [Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course
@@ -138,7 +138,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Digital signal processing (WIP)
 
 ### Books
-*[The Scientist and Engineer's Guide to Digital Signal Processing](https://doc.lagout.org/science/0_Computer%20Science/9_Others/1_Digital%20Signal%20Processing/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20DSP.pdf)
+* [The Scientist and Engineer's Guide to Digital Signal Processing](https://doc.lagout.org/science/0_Computer%20Science/9_Others/1_Digital%20Signal%20Processing/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20DSP.pdf)
 
 ### Free resources
 [Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
