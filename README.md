@@ -20,6 +20,13 @@ To evaluate each resource presented in this document, I have set up a rating sys
 ⭐⭐ : Recommended (necessary or highly useful)
 
 ⭐ : Possibilities (useful in specific cases)
+
+## Electronics Basics
+### Books
+* Practical Electronics for Inventors, P. Scherz
+
+* Getting started in electronics, F. Mims
+
 ## Analog design
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
 
@@ -41,7 +48,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
 
-
 ### Tools
 [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares
 
@@ -52,8 +58,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 [CMOSedu.com](https://cmosedu.com/)
 ## Digital design
 To understand these resources, you need a solid grounding in combinatorial and sequential logic.
-### Books
-* 
 
 ### Free resources
 [Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog
@@ -97,11 +101,13 @@ To understand these resources, you need a solid grounding in combinatorial and s
 [WARP-V](https://warp-v.org/) : Open-source RISC-V core
 
 ### Docs
+[RISC-V Specifications](https://riscv.org/technical/specifications/)
 
 ## Mixed-Signal design (WIP)
  
 ### Books
 * Design of CMOS Phased-Locked Loops, B. Razavi
+* [PLL Performance, Simulation and Design, D. Banerjee](https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf)
 
 ### Tools
 
@@ -158,6 +164,10 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Programming (WIP)
 
 ### Books
+
+
+### Free resources
+[CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710)
 
 ### Tools
 
