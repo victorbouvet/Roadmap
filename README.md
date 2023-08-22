@@ -9,6 +9,10 @@ My go-to resources as an electronics engineering student.
 
 - [@victorbouvet](https://github.com/victorbouvet)
 
+## TO DO
+* Add softwares for each section (cadence virtuoso, vivado, gnuradio, cubeide, putty, etc)
+* Add tools (Test equipment, PCB, Debugging)
+* Add a section for resources (edn, allaboutcircuits, etc)/softwares for any section (MATLAB/Octave, VSCode, Git, Docker, gcc, make, Linux, bash)
 
 ## Learning Ressources
 To evaluate each resource presented in this document, I have set up a rating system: 
@@ -164,7 +168,8 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Programming (WIP)
 
 ### Books
-
+* C Book
+* Python Book
 
 ### Free resources
 [CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710) ⭐⭐⭐
