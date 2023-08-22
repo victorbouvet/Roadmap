@@ -3,6 +3,7 @@
 
 My go-to resources as an electronics engineering student.
 
+> :warning: Copyrighted documents are not shared.
 
 ## Authors
 
