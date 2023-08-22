@@ -172,13 +172,15 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ### Tools
 
 ### Docs
-## Protocols
+## Protocols (WIP)
 
 ### Books
 
 ### Free resources
 [UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8)
+
 [CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s)
+
 [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html)
 
 ### Tools
