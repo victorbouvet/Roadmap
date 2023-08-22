@@ -13,7 +13,7 @@ My go-to resources as an electronics engineering student.
 ## Learning Ressources
 To evaluate each resource presented in this document, I have set up a rating system: 
 
-❤️ : Must-Have (maximum one or two resources per part, mandatory resource)
+❤️ : Must-Have (maximum one or two resources per part, mandatory resources)
 
 ⭐⭐⭐ : Required (almost essential reading)
 
@@ -31,22 +31,22 @@ To evaluate each resource presented in this document, I have set up a rating sys
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
 
 ### Books
-* Fundamentals of Microelectronics, B. Razavi
+* Fundamentals of Microelectronics, B. Razavi ❤️
 
-* Microelectronic circuits, A. Sedra & K.  Smith
+* Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐
 
-* Design of Analog CMOS Integrated Circuit, B. Razavi
+* Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐
 
-* CMOS Analog Circuit Design, P. Allen & D. Holberg
+* CMOS Analog Circuit Design, P. Allen & D. Holberg ⭐⭐
 
-* Analysis and design of analog integrated circuits, P. Gray
+* Analysis and design of analog integrated circuits, P. Gray ⭐
 
-* CMOS: Circuit Design, Layout, and Simulation, R. Baker
+* CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐
 
 ### Free resources
-[Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU)
+[Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️
 
-[New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
+[New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐
 
 ### Tools
 [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares
@@ -60,19 +60,19 @@ To understand these resources, you need a solid grounding in fundamental electro
 To understand these resources, you need a solid grounding in combinatorial and sequential logic.
 
 ### Free resources
-[Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog
+[Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog ❤️
 
-[ASIC World](https://www.asic-world.com/) : Complete tutorial on Verilog, SystemC and SystemVerilog
+[ASIC World](https://www.asic-world.com/) : Complete tutorial on Verilog, SystemC and SystemVerilog ⭐⭐
 
-[VHDLwhiz](https://vhdlwhiz.com/basic-vhdl-tutorials/) : Nandland complements
+[VHDLwhiz](https://vhdlwhiz.com/basic-vhdl-tutorials/) : Nandland complements ⭐
 
-[HDLBits](https://hdlbits.01xz.net/wiki/Step_one) + [ChipDev](https://chipdev.io/question-list) : Verilog exercises
+[HDLBits](https://hdlbits.01xz.net/wiki/Step_one) + [ChipDev](https://chipdev.io/question-list) : Verilog exercises ⭐
 
-[ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials
+[ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials ⭐
 
-[ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions
+[ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions ⭐
 
-[Nand2Tetris](https://www.nand2tetris.org/) : Comprehensive educational project on digital design
+[Nand2Tetris](https://www.nand2tetris.org/) : Comprehensive educational project on digital design ⭐⭐⭐
 
 ### Tools
 [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
@@ -89,13 +89,13 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Computer Architecture
 
 ### Books
-* Processor Microarchitecture: An Implementation Perspective, A. Gonzalez : Starting book 
-* Computer Organization and Design - RISC-V Edition, Patterson & Henessy : First book
-* Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced
+* Processor Microarchitecture: An Implementation Perspective, A. Gonzalez : Starting book  ⭐⭐⭐
+* Computer Organization and Design - RISC-V Edition, Patterson & Henessy : First book ❤️
+* Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced ⭐⭐
 
 ### Free resources
-[Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course
-[Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course
+[Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist? list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
+[Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
 
 ### Tools
 [WARP-V](https://warp-v.org/) : Open-source RISC-V core
@@ -106,8 +106,8 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Mixed-Signal design (WIP)
  
 ### Books
-* Design of CMOS Phased-Locked Loops, B. Razavi
-* [PLL Performance, Simulation and Design, D. Banerjee](https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf)
+* Design of CMOS Phased-Locked Loops, B. Razavi ⭐
+* [PLL Performance, Simulation and Design, D. Banerjee](https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf) ⭐
 
 ### Tools
 
@@ -122,13 +122,13 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## PCB design
 
 ### Books
-* [PCB Design Tutorial, D. Jones](https://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) : Starting tutorial
-* [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering
+* [PCB Design Tutorial, D. Jones](https://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) : Starting tutorial ⭐⭐
+* [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ⭐⭐⭐
 
 ## Free resources
-[PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4)
-[KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB)
-[Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn)
+[PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
+[KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐
+[Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) ⭐
 
 ### Tools
 [KiCad](https://www.kicad.org/)
@@ -138,11 +138,11 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## Digital signal processing (WIP)
 
 ### Books
-* [The Scientist and Engineer's Guide to Digital Signal Processing](https://doc.lagout.org/science/0_Computer%20Science/9_Others/1_Digital%20Signal%20Processing/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20DSP.pdf)
+* [The Scientist and Engineer's Guide to Digital Signal Processing](https://doc.lagout.org/science/0_Computer%20Science/9_Others/1_Digital%20Signal%20Processing/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20DSP.pdf) ❤️
 
 ### Free resources
-[Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
-[Digital Signal Processing, MIT](https://www.youtube.com/playlist?list=PL8157CA8884571BA2)
+[Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) ⭐⭐
+[Digital Signal Processing, MIT](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) ⭐⭐
 
 ### Tools
 
@@ -151,11 +151,11 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ## RF (WIP)
 
 ### Books
-* RF Circuit Design, C. Bowick
-* ARRL Handbook (any edition)
+* RF Circuit Design, C. Bowick ⭐
+* ARRL Handbook (any edition) ⭐
 
 ### Free resources
-[Debunking the Digital Audio Myth](https://www.youtube.com/watch?app=desktop&v=cD7YFUYLpDc&t=2s)
+[Debunking the Digital Audio Myth](https://www.youtube.com/watch?app=desktop&v=cD7YFUYLpDc&t=2s) ⭐
 
 ### Tools
 
@@ -167,7 +167,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 
 
 ### Free resources
-[CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710)
+[CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710) ⭐⭐⭐
 
 ### Tools
 
@@ -177,11 +177,11 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ### Books
 
 ### Free resources
-[UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8)
+[UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8) ⭐⭐⭐
 
-[CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s)
+[CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
 
-[AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html)
+[AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐
 
 ### Tools
 
