@@ -25,6 +25,23 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ⭐ : Possibilities (useful in specific cases)
 
+## Useful softwares any EE student should know
+* Programming languages: C, Python, Matlab
+* VSCode
+* Git
+* Unix commands & Bash scripting
+* Docker
+
+## Lab equipment
+* Oscilloscope
+* Function generator
+* Lab PSU
+
+* PCB Kit
+* Soldering iron
+* Solder wire
+* Solder flux
+
 ## Electronics Basics
 ### Books
 * Practical Electronics for Inventors, P. Scherz
@@ -53,6 +70,10 @@ To understand these resources, you need a solid grounding in fundamental electro
 [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐
 
 ### Tools
+[LTSpice]
+
+[Cadence Virtuoso]
+
 [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares
 
 [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Schematic circuit editor
@@ -79,6 +100,8 @@ To understand these resources, you need a solid grounding in combinatorial and s
 [Nand2Tetris](https://www.nand2tetris.org/) : Comprehensive educational project on digital design ⭐⭐⭐
 
 ### Tools
+[Xilinx Vivado]
+
 [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
 
 [Sigasi](https://www.sigasi.com/) : VHDL verification tool
@@ -98,7 +121,8 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced ⭐⭐
 
 ### Free resources
-[Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist? list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
+[Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
+
 [Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
 
 ### Tools
@@ -114,6 +138,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * [PLL Performance, Simulation and Design, D. Banerjee](https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf) ⭐
 
 ### Tools
+[LTSpice]
 
 ### Docs
 ## Embedded systems design (WIP)
@@ -121,6 +146,9 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ### Books
 
 ### Tools
+[CubeIDE] : STM32 IDE
+
+[PuTTY](https://www.putty.org/) or [Hercules](https://www.hw-group.com/software/hercules-setup-utility) : Serial port terminal
 
 ### Docs
 ## PCB design
@@ -162,7 +190,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 [Debunking the Digital Audio Myth](https://www.youtube.com/watch?app=desktop&v=cD7YFUYLpDc&t=2s) ⭐
 
 ### Tools
-
+[GNURadio](https://www.gnuradio.org/) : free toolkit for software-defined radios and signal processing
 
 ### Docs
 ## Programming (WIP)
