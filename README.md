@@ -36,17 +36,24 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Oscilloscope
 * Function generator
 * Lab PSU
-
 * PCB Kit
 * Soldering iron
 * Solder wire
 * Solder flux
 
-## Electronics Basics
+## Basics electronics
 ### Books
 * Practical Electronics for Inventors, P. Scherz
-
 * Getting started in electronics, F. Mims
+
+### Tools
+[Falstad circuit simulator](https://www.falstad.com/circuit/)
+
+## Semiconductor theory
+### Free resources
+[https://www.youtube.com/watch?v=HdcLRMv3D3g](How Microchips Are Made - Manufacturing of a Semiconductor)
+[https://www.youtube.com/watch?v=qCSIGejNT4M](Semiconductor Fabrication Basics)
+[https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7](Semiconductors explained)
 
 ## Analog design
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
@@ -69,6 +76,8 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐
 
+[VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
+
 ### Tools
 [LTSpice]
 
@@ -81,6 +90,8 @@ To understand these resources, you need a solid grounding in fundamental electro
 [Electric](https://www.staticfreesoft.com/index.html)
 ### Docs
 [CMOSedu.com](https://cmosedu.com/)
+[A Circuit for all season, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
+[The analog mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/Analog%20Mind)
 ## Digital design
 To understand these resources, you need a solid grounding in combinatorial and sequential logic.
 
@@ -125,11 +136,19 @@ To understand these resources, you need a solid grounding in combinatorial and s
 
 [Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
 
+[Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
+
 ### Tools
 [WARP-V](https://warp-v.org/) : Open-source RISC-V core
 
+[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V
+
 ### Docs
 [RISC-V Specifications](https://riscv.org/technical/specifications/)
+
+[Agner Fog's software optimization resources](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/Agner%20Fog)
+
+[RISC-V ISA sheets](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/RISC-V)
 
 ## Mixed-Signal design (WIP)
  
@@ -164,6 +183,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 
 ### Tools
 [KiCad](https://www.kicad.org/)
+[SMD database](https://smd.yooneed.one/)
 
 ### Docs
 [Getting started in Kicad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.pdf)
