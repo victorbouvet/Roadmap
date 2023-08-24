@@ -41,10 +41,6 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Solder wire
 * Solder flux
 
-<details><summary>
-### Test
-</summary>Peek a boo!</details>
-
 ## Basics electronics
 ### Books
 * Practical Electronics for Inventors, P. Scherz
