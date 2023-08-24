@@ -68,26 +68,18 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Free resources
 * [Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️
-
 * [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐
-
 * [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
 
 ### Tools
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
-
 * [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
-
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares
-
 * [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso
-
 * [Electric](https://www.staticfreesoft.com/index.html)
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
-
 * [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
-
 * [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/Analog%20Mind)
 ## Digital design
 To understand these resources, you need a solid grounding in combinatorial and sequential logic.
@@ -102,7 +94,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * [Nand2Tetris](https://www.nand2tetris.org/) : Complete educational project on digital design ⭐⭐⭐
 
 ### Tools
-*[Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
+* [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
 * [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
 * [Sigasi](https://www.sigasi.com/) : VHDL verification tool
 * [OSVVM](https://osvvm.org/) : Open-source VHDL verification tool
