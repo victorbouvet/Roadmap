@@ -51,9 +51,11 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ## Semiconductor theory
 ### Free resources
-[https://www.youtube.com/watch?v=HdcLRMv3D3g](How Microchips Are Made - Manufacturing of a Semiconductor)
-[https://www.youtube.com/watch?v=qCSIGejNT4M](Semiconductor Fabrication Basics)
-[https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7](Semiconductors explained)
+[How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
+
+[Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
+
+[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
 
 ## Analog design
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
