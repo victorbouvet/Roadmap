@@ -149,6 +149,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ⭐⭐⭐
 
 ## Free resources
+* [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf)
 * [PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
 * [KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐
 * [Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) ⭐
