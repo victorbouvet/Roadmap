@@ -22,3 +22,9 @@
 [submodule "Documentations/ARM/Digital-Signal-Processing-Education-Kit"]
 	path = Documentations/Computer architecture/ARM/Digital-Signal-Processing-Education-Kit
 	url = https://github.com/arm-university/Digital-Signal-Processing-Education-Kit
+[submodule "Documentations/Digital design/learn-fpga"]
+	path = Documentations/Digital design/learn-fpga
+	url = https://github.com/BrunoLevy/learn-fpga
+[submodule "Documentations/Computer architecture/Ripes"]
+	path = Documentations/Computer architecture/Ripes
+	url = https://github.com/mortbopet/Ripes
