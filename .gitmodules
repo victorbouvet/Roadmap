@@ -1,5 +1,5 @@
 [submodule "Documentations/Free-Range-VHDL-book"]
-	path = Documentations/Free-Range-VHDL-book
+	path = Documentations/Digital design/Free-Range-VHDL-book
 	url = https://github.com/fabriziotappero/Free-Range-VHDL-book.git
 [submodule "papers-we-love"]
 	path = papers-we-love
