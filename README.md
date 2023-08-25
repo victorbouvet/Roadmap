@@ -36,7 +36,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 <details>
   <summary>Lab Equipment</summary>
 
-* **Oscilloscope**: Siglent SDS1104X-E, Rigol DS1054Z, Rigol DS1104Z-S+ (with function generator), Rigol MSO5072 (w/ function generator & logic analyzer)
+* **Oscilloscope**: Siglent SDS1104X-E, Rigol DS1054Z, Keysight DSOX1202A, Rigol DS1104Z-S+ (with function generator), Rigol MSO5072 (w/ function generator & logic analyzer)
 * **Function generator**: Siglent SDG1032X, Siglent SDG2042X
 * **Lab power supply**: Rigol DP832
 * **Digital multimeter** or bench digital multimeter
