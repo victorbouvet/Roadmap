@@ -32,14 +32,43 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Unix commands & Bash scripting
 * Docker
 
-## Lab equipment
+## Electronics equipment
+<details>
+  <summary>Lab Equipment</summary>
+
 * Oscilloscope
 * Function generator
-* Lab PSU
-* PCB Kit
+* Lab power supply
+* Digital multimeter or bench digital multimeter
+* Logic analyzer
+
+</details>
+
+<details>
+  <summary>Prototyping Kit</summary>
+
+* Wire stripper
+* Solderless breadboards
+* Breadboard cables
+* Stranded cables
+* Resistor / Capacitor / Inductor kits
+</details>
+
+<details>
+  <summary>PCB Kit</summary>
+
+* ESD mat
 * Soldering iron
 * Solder wire
 * Solder flux
+* Smoke extractor
+* Desoldering braid
+* Hot air station
+* ESD tweezers set
+* Screwdriver set
+* Cutting pliers
+* Hot glue gun
+</details>
 
 ## Basics electronics
 ### Books
@@ -137,7 +166,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 ### Books
 
 ### Tools
-* [CubeIDE] : STM32 IDE
+* [CubeIDE](https://www.st.com/content/st_com/en/stm32cubeide.html) : STM32 development tool
 
 * [PuTTY](https://www.putty.org/) or [Hercules](https://www.hw-group.com/software/hercules-setup-utility) : Serial port terminal
 
