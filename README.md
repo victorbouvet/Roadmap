@@ -36,11 +36,13 @@ To evaluate each resource presented in this document, I have set up a rating sys
 <details>
   <summary>Lab Equipment</summary>
 
-* Oscilloscope
-* Function generator
-* Lab power supply
-* Digital multimeter or bench digital multimeter
-* Logic analyzer
+* **Oscilloscope**: Siglent SDS1104X-E, Rigol DS1054Z, Rigol DS1104Z-S+ (with function generator), Rigol MSO5072 (w/ function generator & logic analyzer)
+* **Function generator**: Siglent SDG1032X, Siglent SDG2042X
+* **Lab power supply**: Rigol DP832
+* **Digital multimeter** or bench digital multimeter
+* **Logic analyzer**: Saleae Logic 8
+* **Probes**: PCBite 4019
+* Spectrum analyzer: Siglent SSA3021X
 
 </details>
 
@@ -52,6 +54,12 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Breadboard cables
 * Stranded cables
 * Resistor / Capacitor / Inductor kits
+</details>
+
+<details>
+  <summary>Digital design Kit</summary>
+
+* FPGA: Digilent Nexys A7-100T
 </details>
 
 <details>
@@ -78,7 +86,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 ### Tools
 * [Falstad circuit simulator](https://www.falstad.com/circuit/)
 
-## Semiconductor theory
+## Semiconductors theory
 ### Free resources
 * [How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
 * [Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
