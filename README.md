@@ -79,8 +79,8 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Electric](https://www.staticfreesoft.com/index.html)
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
-* [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
-* [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Analog%20design/Behzad%20Razavi/Analog%20Mind)
+* [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
+* [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
 ## Digital design
 To understand these resources, you need a solid grounding in combinatorial and sequential logic.
 
