@@ -117,7 +117,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
 * [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares (Magic: Layout tool, XCircuit: Circuit drawing tool)
-* [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso
+* [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
 * [Electric](https://www.staticfreesoft.com/index.html)
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
