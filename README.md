@@ -202,6 +202,9 @@ To understand these resources, you need a solid grounding in combinatorial and s
 
 ### Docs
 * [Getting started in Kicad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.pdf)
+* [Schematic design tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/schematic_review_tips/)
+* [PCB Layout tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/pcb_review_tips/)
+* [BOM list tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/bom_review_tips/)
 ## Digital signal processing (WIP)
 
 ### Books
