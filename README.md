@@ -78,6 +78,11 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Hot glue gun
 </details>
 
+## Useful websites
+* [EDN](https://www.edn.com/category/design/design-idea/)
+* [All About Circuits](https://www.allaboutcircuits.com/technical-articles/) : Community of electrical engineers with hundreds of technical articles
+* [Open Tetxbook Library](https://open.umn.edu/opentextbooks/subjects/electrical) : Free electrical/electronics engineering textbooks
+
 ## Basics electronics
 ### Books
 * Practical Electronics for Inventors, P. Scherz
