@@ -103,16 +103,22 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Books
 * Fundamentals of Microelectronics, B. Razavi ❤️  
       &emsp;Beginner level - Theoretical, very clear with Razavi's lectures
+
 * Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐  
       &emsp;Beginner level - Theoretical, easy to understand with good theory
+
 * Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐  
       &emsp;Intermediate level - Theoretical/Practical
+
 * CMOS Analog Circuit Design, P. Allen & D. Holberg ⭐⭐  
       &emsp;Intermediate level - Pratical, great for learning practical analog design 
+
 * Analysis and design of analog integrated circuits, P. Gray ⭐  
       &emsp;Advanced, standard analog bipolar+cmos device physics, simple and slightly more complex circuits
+
 * CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐  
       &emsp;Advanced level - Pratical, a lot of pratical and circuit design
+      
 * The Art of Analog Layout, A. Hastings ⭐⭐⭐  
       &emsp;Best book of analog layout
 
