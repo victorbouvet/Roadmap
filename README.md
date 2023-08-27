@@ -97,6 +97,9 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * [Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
 * [Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
 
+### Tools
+* 3D view of FET : [Planar](https://skfb.ly/oGOKI), [FinFET](https://skfb.ly/oGOLU), [GAAFET](https://skfb.ly/oGOMz), [Planar Inverter](https://skfb.ly/oGOLC), [FinFET Inverter](https://skfb.ly/oGOLU)
+
 ## Analog design
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
 
