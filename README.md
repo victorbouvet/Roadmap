@@ -117,18 +117,24 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
 * [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares (Magic: Layout tool, XCircuit: Circuit drawing tool)
-* [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
+* [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso - [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
 * [Electric](https://www.staticfreesoft.com/index.html)
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
 * [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
 * [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
+* * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 ## Digital design
-To understand these resources, you need a solid grounding in combinatorial and sequential logic.
+
+### Books
+* Digital Design, M. Morris: You shall have clear ground from this book. You shall not struggle here to understand it.
+* Digital Design by Wakerly: You can take advanced learning of digital designs from this book.
+* CMOS VLSI Design by Neil Weste and David Harris: Read 3rd chapter with full concentration without skipping a word. 
+
 
 ### Free resources
 * [Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog ❤️
-* [ASIC World](https://www.asic-world.com/) : Complete tutorial on Verilog, SystemC and SystemVerilog ⭐⭐
+* [ASIC World](https://www.asic-world.com/) : Good syntax reference about Verilog, SystemC and SystemVerilog (do not use as a tutorial) ⭐⭐
 * [VHDLwhiz](https://vhdlwhiz.com/basic-vhdl-tutorials/) : Nandland complements ⭐
 * [HDLBits](https://hdlbits.01xz.net/wiki/Step_one) + [ChipDev](https://chipdev.io/question-list) : Verilog exercises ⭐
 * [ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials ⭐
@@ -174,6 +180,8 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * [LTSpice]
 
 ### Docs
+* [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
+* [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials
 ## Embedded systems design (WIP)
 
 ### Books
@@ -231,6 +239,7 @@ To understand these resources, you need a solid grounding in combinatorial and s
 * [GNURadio](https://www.gnuradio.org/) : free toolkit for software-defined radios and signal processing
 
 ### Docs
+* [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 ## Programming (WIP)
 
 ### Books
