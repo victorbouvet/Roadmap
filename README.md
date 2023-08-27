@@ -87,11 +87,15 @@ To evaluate each resource presented in this document, I have set up a rating sys
 ### Books
 * Practical Electronics for Inventors, P. Scherz
 * Getting started in electronics, F. Mims
+* [Analog's Engineer Pocket Reference, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Engineer%E2%80%99s%20Pocket%20Reference%20Guide%20.pdf) : Quick guide for formulas
 
 ### Tools
 * [Falstad circuit simulator](https://www.falstad.com/circuit/)
 
 ## Semiconductors theory
+### Books
+* [Analog Design Layout](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Layout%20Design.pdf) : Compilation of various documentation of analog layout stuff
+
 ### Free resources
 * [How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
 * [Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
@@ -141,6 +145,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
 * [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
+* [OP Amp Cookbook, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Circuit_Cookbook_Op_Amp.pdf) + [Handbook of Op Amps](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/HANDBOOK%20OF%20OPERATIONAL%20AMPLIFIER%20APPLICATIONS.pdf) : Op Amps circuits books
 ## Digital design
 
 ### Books
