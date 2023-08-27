@@ -127,9 +127,9 @@ To understand these resources, you need a solid grounding in fundamental electro
 ## Digital design
 
 ### Books
-* Digital Design, M. Morris: You shall have clear ground from this book. You shall not struggle here to understand it.
-* Digital Design by Wakerly: You can take advanced learning of digital designs from this book.
-* CMOS VLSI Design by Neil Weste and David Harris: Read 3rd chapter with full concentration without skipping a word. 
+* Digital Design, M. Morris: Clear, easy-to-understand information
+* Digital Design by Wakerly: Acquire advanced knowledge of digital design
+* CMOS VLSI Design by Neil Weste and David Harris: Read 3rd chapter carefully
 
 
 ### Free resources
