@@ -102,7 +102,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Books
 * Fundamentals of Microelectronics, B. Razavi ❤️  
-      &emsp;Beginner level - Theoretical, very clear with Razavi's lectures
+      &emsp;Beginner level - Theoretical, very clear with Razavi's lectures (see Fundamentals of Microelectronics lectures, Razavi)
 
 * Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐  
       &emsp;Beginner level - Theoretical, easy to understand with good theory
@@ -141,9 +141,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 ## Digital design
 
 ### Books
-* Digital Design, M. Morris: Clear, easy-to-understand information
-* Digital Design by Wakerly: Acquire advanced knowledge of digital design
-* CMOS VLSI Design by Neil Weste and David Harris: Read 3rd chapter carefully
+* Digital Design, M. Morris  
+&emsp;Clear, easy-to-understand information
+* Digital Design by Wakerly  
+&emsp;Acquire advanced knowledge of digital design
+* CMOS VLSI Design by Neil Weste and David Harris  
+&emsp;Read 3rd chapter carefully
 
 
 ### Free resources
@@ -166,9 +169,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 ## Computer Architecture
 
 ### Books
-* Processor Microarchitecture: An Implementation Perspective, A. Gonzalez : Starting book  ⭐⭐⭐
-* Computer Organization and Design - RISC-V Edition, Patterson & Henessy : First book ❤️
-* Computer Architecture: A Quantitative Approach, Patterson & Hennessy : Second book, more advanced ⭐⭐
+* Processor Microarchitecture: An Implementation Perspective, A. Gonzalez ⭐⭐⭐  
+&emsp;A good starting book
+* Computer Organization and Design - RISC-V Edition, Patterson & Henessy ❤️  
+&emsp; First book
+* Computer Architecture: A Quantitative Approach, Patterson & Hennessy ⭐⭐  
+&emsp;Second book, more advanced
 
 ### Free resources
 * [Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
