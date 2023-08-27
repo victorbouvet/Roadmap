@@ -101,13 +101,20 @@ To evaluate each resource presented in this document, I have set up a rating sys
 To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
 
 ### Books
-* Fundamentals of Microelectronics, B. Razavi ❤️ : Beginner level - Theoretical, very clear with Razavi's lectures
-* Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐ : Beginner level - Theoretical, easy to understand with good theory
-* Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐ : Intermediate level - Theoretical/Practical
-* CMOS Analog Circuit Design, P. Allen & D. Holberg ⭐⭐ : Intermediate level - Pratical, great for learning practical analog design 
-* Analysis and design of analog integrated circuits, P. Gray ⭐ : Advanced, standard analog bipolar+cmos device physics, simple and slightly more complex circuits
-* CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐ : Advanced level - Pratical, a lot of pratical and circuit design
-* The Art of Analog Layout, A. Hastings ⭐⭐⭐ : Best book of analog layout
+* Fundamentals of Microelectronics, B. Razavi ❤️  
+      &emsp;Beginner level - Theoretical, very clear with Razavi's lectures
+* Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐  
+      &emsp;Beginner level - Theoretical, easy to understand with good theory
+* Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐  
+      &emsp;Intermediate level - Theoretical/Practical
+* CMOS Analog Circuit Design, P. Allen & D. Holberg ⭐⭐  
+      &emsp;Intermediate level - Pratical, great for learning practical analog design 
+* Analysis and design of analog integrated circuits, P. Gray ⭐  
+      &emsp;Advanced, standard analog bipolar+cmos device physics, simple and slightly more complex circuits
+* CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐  
+      &emsp;Advanced level - Pratical, a lot of pratical and circuit design
+* The Art of Analog Layout, A. Hastings ⭐⭐⭐  
+      &emsp;Best book of analog layout
 
 ### Free resources
 * [Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️
