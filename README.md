@@ -194,14 +194,16 @@ To understand these resources, you need a solid grounding in fundamental electro
  
 ### Books
 * Design of CMOS Phased-Locked Loops, B. Razavi ⭐
-* [PLL Performance, Simulation and Design, D. Banerjee](https://www.ti.com/lit/ml/snaa106c/snaa106c.pdf) ⭐
+* [PLL Performance, Simulation and Design, D. Banerjee](https://github.com/victorbouvet/Roadmap/blob/0d517c3513db8de11338bbcdbf5398d94f320ac1/Documentations/Mixed-Signal%20design/PLL%20Design%20Book.pdf) ⭐
 
 ### Tools
-* [LTSpice]
-
+* [NGSpice](https://ngspice.sourceforge.io/osdi.html): Free Verilog-AMS (hardware description language that can model both analog and digital) simulator
+* [Xyce](https://xyce.sandia.gov/documentation-tutorials/xyce-adms-users-guide/) + [ADMS](https://github.com/Qucs/ADMS) : Same as NGSPicew with Verilog-A and Verilog-AMS
+* [CppSim](https://www.cppsim.com/) : Tool to perform system-level simulations of complex mixed-signal circuits
 ### Docs
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 * [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials
+* [Verilog-A Models for Circuit Simulation](https://github.com/dwarning/VA-Models)
 ## Embedded systems design (WIP)
 
 ### Books
