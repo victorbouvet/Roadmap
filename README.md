@@ -118,7 +118,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 * CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐  
       &emsp;Advanced level - Pratical, a lot of pratical and circuit design
-      
+
 * The Art of Analog Layout, A. Hastings ⭐⭐⭐  
       &emsp;Best book of analog layout
 
@@ -137,7 +137,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [CMOSedu.com](https://cmosedu.com/)
 * [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
 * [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
-* * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
+* [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 ## Digital design
 
 ### Books
