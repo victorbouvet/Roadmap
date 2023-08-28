@@ -129,6 +129,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Tools
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
+* [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) : Same as LTspice by the same creator [direct installation link](https://getqspice.com/InstallQSPICE.exe)
 * [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares (Magic: Layout tool, XCircuit: Circuit drawing tool)
 * [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso - [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
@@ -260,6 +261,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Tools
 * [GNURadio](https://www.gnuradio.org/) : free toolkit for software-defined radios and signal processing
+* [QCS Studio](http://qucsstudio.de/de/start/) : free circuit simulation tool with RF parameters
 
 ### Docs
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
