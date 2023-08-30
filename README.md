@@ -85,14 +85,14 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ## Basics electronics
 ### Books
-* Practical Electronics for Inventors, P. Scherz
-* Getting started in electronics, F. Mims
-* [Analog's Engineer Pocket Reference, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Engineer%E2%80%99s%20Pocket%20Reference%20Guide%20.pdf) : Quick guide for formulas
+* Practical Electronics for Inventors, P. Scherz ⭐️⭐️⭐️
+* Getting started in electronics, F. Mims ⭐️⭐️
+* [Analog's Engineer Pocket Reference, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Engineer%E2%80%99s%20Pocket%20Reference%20Guide%20.pdf) : Quick guide for formulas ⭐️
 
 ### Tools
 * [Falstad circuit simulator](https://www.falstad.com/circuit/)
 
-## Semiconductors theory
+## Semiconductors theory WIP
 ### Books
 * [Analog Design Layout](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Layout%20Design.pdf) : Compilation of various documentation of analog layout stuff
 
@@ -111,7 +111,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * Fundamentals of Microelectronics, B. Razavi ❤️  
       &emsp;Beginner level - Theoretical, very clear with Razavi's lectures (see Fundamentals of Microelectronics lectures, Razavi)
 
-* Microelectronic circuits, A. Sedra & K.  Smith ⭐⭐⭐  
+* Microelectronic circuits, A. Sedra & K.  Smith ❤️
       &emsp;Beginner level - Theoretical, easy to understand with good theory
 
 * Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐  
@@ -151,7 +151,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 ## Digital design
 
 ### Books
-* Digital Design, M. Morris  
+* Digital Design, M. Morris ❤️
 &emsp;Clear, easy-to-understand information
 * Digital Design by Wakerly  
 &emsp;Acquire advanced knowledge of digital design
@@ -163,7 +163,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [ASIC World](https://www.asic-world.com/) : Good syntax reference about Verilog, SystemC and SystemVerilog (do not use as a tutorial) ⭐⭐
 * [VHDLwhiz](https://vhdlwhiz.com/basic-vhdl-tutorials/) : Nandland complements ⭐
 * [HDLBits](https://hdlbits.01xz.net/wiki/Step_one) + [ChipDev](https://chipdev.io/question-list) : Verilog exercises ⭐
-* [ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials ⭐
+* [ZipCPU](https://zipcpu.com/) ⭐️⭐️⭐️
 * [ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions ⭐
 * [Nand2Tetris](https://www.nand2tetris.org/) : Complete educational project on digital design ⭐⭐⭐
 * [FPGA design with Verilog tutorial](https://verilogguide.readthedocs.io/en/latest/)
@@ -196,9 +196,8 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V
 
 ### Docs
-* [RISC-V Specifications](https://riscv.org/technical/specifications/)
+* [RISC-V Specifications](https://riscv.org/technical/specifications/) + [RISC-V ISA sheets](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/RISC-V)
 * [Agner Fog's software optimization resources](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/Agner%20Fog)
-* [RISC-V ISA sheets](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/RISC-V)
 
 ## Mixed-Signal design (WIP)
  
@@ -229,13 +228,13 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Books
 * [PCB Design Tutorial, D. Jones](https://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) : Starting tutorial ⭐⭐
-* [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ⭐⭐⭐
+* [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ❤️
 
 ## Free resources
-* https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K FRENCH ONLY ⭐
-* [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf)
+* [Mon premier PCB avec KiCad](https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K) FRENCH ONLY ❤
+* [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf) ⭐️⭐️⭐️
 * [PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
-* [KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐
+* [KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐⭐️
 * [Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) ⭐
 
 ### Tools
@@ -263,9 +262,9 @@ To understand these resources, you need a solid grounding in fundamental electro
 ## RF (WIP)
 
 ### Books
-* RF Microelectronics, B. Razavi ⭐⭐
-* RF Circuit Design, C. Bowick ⭐
-* ARRL Handbook (any edition) ⭐
+* RF Microelectronics, B. Razavi ⭐⭐⭐️
+* RF Circuit Design, C. Bowick ⭐⭐️
+* ARRL Handbook (any edition) ⭐⭐️
 
 ### Free resources
 * [Debunking the Digital Audio Myth](https://www.youtube.com/watch?app=desktop&v=cD7YFUYLpDc&t=2s) ⭐
@@ -283,7 +282,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * Python book
 
 ### Free resources
-[CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710) ⭐⭐⭐
+[CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710) ⭐⭐
 
 ### Tools
 
