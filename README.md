@@ -147,6 +147,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 * [OP Amp Cookbook, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Circuit_Cookbook_Op_Amp.pdf) + [Handbook of Op Amps](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/HANDBOOK%20OF%20OPERATIONAL%20AMPLIFIER%20APPLICATIONS.pdf) : Op Amps circuits books
+* https://www.analog.com/en/education/education-library/tutorials/analog-electronics.html
 ## Digital design
 
 ### Books
@@ -166,6 +167,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials ⭐
 * [ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions ⭐
 * [Nand2Tetris](https://www.nand2tetris.org/) : Complete educational project on digital design ⭐⭐⭐
+* https://verilogguide.readthedocs.io/en/latest/
 
 ### Tools
 * [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
@@ -213,6 +215,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 * [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials
 * [Verilog-A Models for Circuit Simulation](https://github.com/dwarning/VA-Models)
+* https://www.analog.com/en/education/education-library/tutorials/mixed-signal-electronics-systems.html
 ## Embedded systems design (WIP)
 
 ### Books
@@ -230,6 +233,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ⭐⭐⭐
 
 ## Free resources
+* https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K FRENCH ONLY ⭐
 * [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf)
 * [PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
 * [KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐
@@ -252,7 +256,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 * [Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) ⭐⭐
 * [Digital Signal Processing, MIT](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) ⭐⭐
-
+* https://zipcpu.com/dsp/dsp.html
 ### Tools
 
 
@@ -292,7 +296,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 * [UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8) ⭐⭐⭐
 * [CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
-* [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐
+* [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
 
 ### Tools
 
