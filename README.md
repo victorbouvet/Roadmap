@@ -158,7 +158,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 * CMOS VLSI Design by Neil Weste and David Harris  
 &emsp;Read 3rd chapter carefully
 
-
 ### Free resources
 * [Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog ❤️
 * [ASIC World](https://www.asic-world.com/) : Good syntax reference about Verilog, SystemC and SystemVerilog (do not use as a tutorial) ⭐⭐
@@ -167,16 +166,16 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [ZipCPU](https://zipcpu.com/) : Digital verification courses and tutorials ⭐
 * [ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions ⭐
 * [Nand2Tetris](https://www.nand2tetris.org/) : Complete educational project on digital design ⭐⭐⭐
-* https://verilogguide.readthedocs.io/en/latest/
+* [FPGA design with Verilog tutorial](https://verilogguide.readthedocs.io/en/latest/)
 
 ### Tools
 * [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
 * [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
-* [Sigasi](https://www.sigasi.com/) : VHDL verification tool
-* [OSVVM](https://osvvm.org/) : Open-source VHDL verification tool
-* [Verilator](https://www.veripool.org/verilator/) : Verilog open-source simulator in C++
+* [Sigasi](https://www.sigasi.com/) : VHDL verification tool OR [OSVVM](https://osvvm.org/) : Open-source VHDL verification tool
+* [Verilator](https://www.veripool.org/verilator/) : Verilog/SystemVerilog to C/C++ simulator
+* [cocotb](https://www.cocotb.org/) : VHDL/Verilog verification simulator in Python
+* [Dynamatic, EPFL](https://dynamatic.epfl.ch/) : Open-source HLS (high-level synthesis) compiler
 * [WaveDrom](https://wavedrom.com/) : Waveforms generator
-* [cocotb](https://www.cocotb.org/) : Free VHDL/Verilog verification simulation n Python
 ## Computer Architecture
 
 ### Books
