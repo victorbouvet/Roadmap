@@ -94,12 +94,15 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ## Semiconductors theory WIP
 ### Books
-* [Analog Design Layout](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Layout%20Design.pdf) : Compilation of various documentation of analog layout stuff
+* [Semiconductors & Transistors: An overview of theory, fabrication and application](https://github.com/victorbouvet/Roadmap/blob/4ae5053c6a56e19f460265719a8ffb5ce964754c/Documentations/Semiconductors%20%26%20Transistors%20Final%20Paper.pdf)
 
 ### Free resources
-* [How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
-* [Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
-* [Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
+* Semiconductors theory
+&emsp;[Semiconductors Fundamentals](https://www.youtube.com/playlist?list=PLtkeUZItwHK6BGDhR8VC4W2L7Cllm8A-t)
+* Semiconductors manufacturing
+&emsp;[How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
+&emsp;[Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
+&emsp;[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
 
 ### Tools
 * 3D view of FET : [Planar](https://skfb.ly/oGOKI), [FinFET](https://skfb.ly/oGOLU), [GAAFET](https://skfb.ly/oGOMz), [Planar Inverter](https://skfb.ly/oGOLC), [FinFET Inverter](https://skfb.ly/oGOLU)
@@ -148,6 +151,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 * [OP Amp Cookbook, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Circuit_Cookbook_Op_Amp.pdf) + [Handbook of Op Amps](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/HANDBOOK%20OF%20OPERATIONAL%20AMPLIFIER%20APPLICATIONS.pdf) : Op Amps circuits books
 * https://www.analog.com/en/education/education-library/tutorials/analog-electronics.html
+* [Analog Design Layout](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Layout%20Design.pdf) : Compilation of various documentation of analog layout stuff
 ## Digital design
 
 ### Books
@@ -192,8 +196,13 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ### Tools
-* [WARP-V](https://warp-v.org/) : Open-source RISC-V core
-* [Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V
+* [make](https://learnxinyminutes.com/docs/make/) and[CMake](https://learnxinyminutes.com/docs/cmake/)
+* RISC-V tools:
+&emsp;[WARP-V](https://warp-v.org/) : Open-source RISC-V core
+&emsp;[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V
+&emsp;[RISC-V Assembler](https://riscvasm.lucasteske.dev/)
+&emsp;[RISC-V Instruction Encoder/Decoder](https://luplab.gitlab.io/rvcodecjs/)
+&emsp;[RISC-V Interpreter](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
 ### Docs
 * [RISC-V Specifications](https://riscv.org/technical/specifications/) + [RISC-V ISA sheets](https://github.com/victorbouvet/Roadmap/tree/ec17ef6c32fb0fd58b2246a29d8c505602e1f49d/Documentations/Computer%20architecture/RISC-V)
@@ -254,11 +263,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 * [Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) ⭐⭐
 * [Digital Signal Processing, MIT](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) ⭐⭐
-* https://zipcpu.com/dsp/dsp.html
+* [Digital communications tutorial](https://complextoreal.com/tutorials/) + [Book](https://www.inference.org.uk/itprnn/book.pdf)
 ### Tools
 
 
 ### Docs
+[DSP posts](https://zipcpu.com/dsp/dsp.html)
 ## RF (WIP)
 
 ### Books
