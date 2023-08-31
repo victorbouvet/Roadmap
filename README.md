@@ -5,15 +5,6 @@ My go-to resources as an electronics engineering student.
 
 > :warning: Copyrighted documents are not shared.
 
-## Authors
-
-- [@victorbouvet](https://github.com/victorbouvet)
-
-## TO DO
-* Add softwares for each section (cadence virtuoso, vivado, gnuradio, cubeide, putty, etc)
-* Add tools (Test equipment, PCB, Debugging)
-* Add a section for resources (edn, allaboutcircuits, etc)/softwares for any section (MATLAB/Octave, VSCode, Git, Docker, gcc, make, Linux, bash)
-
 ## Learning Ressources
 To evaluate each resource presented in this document, I have set up a rating system: 
 
@@ -97,12 +88,12 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * [Semiconductors & Transistors: An overview of theory, fabrication and application](https://github.com/victorbouvet/Roadmap/blob/4ae5053c6a56e19f460265719a8ffb5ce964754c/Documentations/Semiconductors%20%26%20Transistors%20Final%20Paper.pdf)
 
 ### Free resources
-* Semiconductors theory
+* Semiconductors theory  
 &emsp;[Semiconductors Fundamentals](https://www.youtube.com/playlist?list=PLtkeUZItwHK6BGDhR8VC4W2L7Cllm8A-t)
-* Semiconductors manufacturing
-&emsp;[How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)
-&emsp;[Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)
-&emsp;[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
+* Semiconductors manufacturing  
+&emsp;[How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)  
+&emsp;[Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)  
+&emsp;[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)  
 
 ### Tools
 * 3D view of FET : [Planar](https://skfb.ly/oGOKI), [FinFET](https://skfb.ly/oGOLU), [GAAFET](https://skfb.ly/oGOMz), [Planar Inverter](https://skfb.ly/oGOLC), [FinFET Inverter](https://skfb.ly/oGOLU)
@@ -305,6 +296,9 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8) ⭐⭐⭐
 * [CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
 * [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
+
+## Authors
+- [@victorbouvet](https://github.com/victorbouvet)
 
 ### Tools
 
