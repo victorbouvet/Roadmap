@@ -187,12 +187,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ### Tools
-* [make](https://learnxinyminutes.com/docs/make/) and[CMake](https://learnxinyminutes.com/docs/cmake/)
-* RISC-V tools:
-&emsp;[WARP-V](https://warp-v.org/) : Open-source RISC-V core
-&emsp;[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V
-&emsp;[RISC-V Assembler](https://riscvasm.lucasteske.dev/)
-&emsp;[RISC-V Instruction Encoder/Decoder](https://luplab.gitlab.io/rvcodecjs/)
+* [make](https://learnxinyminutes.com/docs/make/) and [CMake](https://learnxinyminutes.com/docs/cmake/)
+* RISC-V tools:  
+&emsp;[WARP-V](https://warp-v.org/) : Open-source RISC-V core  
+&emsp;[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V  
+&emsp;[RISC-V Assembler](https://riscvasm.lucasteske.dev/)  
+&emsp;[RISC-V Instruction Encoder/Decoder](https://luplab.gitlab.io/rvcodecjs/)  
 &emsp;[RISC-V Interpreter](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
 ### Docs
