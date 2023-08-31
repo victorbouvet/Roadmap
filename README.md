@@ -83,7 +83,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 ### Tools
 * [Falstad circuit simulator](https://www.falstad.com/circuit/)
 
-## Semiconductors theory WIP
+## Semiconductors theory
 ### Books
 * [Semiconductors & Transistors: An overview of theory, fabrication and application](https://github.com/victorbouvet/Roadmap/blob/4ae5053c6a56e19f460265719a8ffb5ce964754c/Documentations/Semiconductors%20%26%20Transistors%20Final%20Paper.pdf)
 
@@ -93,13 +93,12 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Semiconductors manufacturing  
 &emsp;[How Microchips Are Made - Manufacturing of a Semiconductor](https://www.youtube.com/watch?v=HdcLRMv3D3g)  
 &emsp;[Semiconductor Fabrication Basics](https://www.youtube.com/watch?v=qCSIGejNT4M)  
-&emsp;[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)  
-
+  
 ### Tools
 * 3D view of FET : [Planar](https://skfb.ly/oGOKI), [FinFET](https://skfb.ly/oGOLU), [GAAFET](https://skfb.ly/oGOMz), [Planar Inverter](https://skfb.ly/oGOLC), [FinFET Inverter](https://skfb.ly/oGOLU)
 
 ## Analog design
-To understand these resources, you need a solid grounding in fundamental electronics and analog electronics.
+To understand these resources, you need a solid grounding in fundamental electronics and semiconductors theory.
 
 ### Books
 * Fundamentals of Microelectronics, B. Razavi ❤️  
@@ -129,11 +128,9 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
 
 ### Tools
-* [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
-* [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) : Same as LTspice by the same creator ([direct installation link](https://getqspice.com/InstallQSPICE.exe))
-* [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
+* [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software OR [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) : Same creator as LTSpice ([direct installation link](https://getqspice.com/InstallQSPICE.exe))
+* [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software OR [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor - [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares (Magic: Layout tool, XCircuit: Circuit drawing tool)
-* [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso - [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
 
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
@@ -148,10 +145,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Books
 * Digital Design, M. Morris ❤️
 &emsp;Clear, easy-to-understand information
-* Digital Design by Wakerly  
-&emsp;Acquire advanced knowledge of digital design
-* CMOS VLSI Design by Neil Weste and David Harris  
-&emsp;Read 3rd chapter carefully
 
 ### Free resources
 * [Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog ❤️
@@ -161,7 +154,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [ZipCPU](https://zipcpu.com/) ⭐️⭐️⭐️
 * [ChipVerify](https://www.chipverify.com/)  : Verilog, SystemVerilog, UVM tutorial + interview questions ⭐
 * [Nand2Tetris](https://www.nand2tetris.org/) : Complete educational project on digital design ⭐⭐⭐
-* [FPGA design with Verilog tutorial](https://verilogguide.readthedocs.io/en/latest/)
 
 ### Tools
 * [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
@@ -208,22 +200,18 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Tools
 * [NGSpice](https://ngspice.sourceforge.io/osdi.html): Free Verilog-AMS (hardware description language that can model both analog and digital) simulator
 * [Xyce](https://xyce.sandia.gov/documentation-tutorials/xyce-adms-users-guide/) + [ADMS](https://github.com/Qucs/ADMS) : Same as NGSPicew with Verilog-A and Verilog-AMS
-* [CppSim](https://www.cppsim.com/) : Tool to perform system-level simulations of complex mixed-signal circuits
+
 ### Docs
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
-* [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials
-* [Verilog-A Models for Circuit Simulation](https://github.com/dwarning/VA-Models)
+* [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials + [Verilog-A Models for Circuit Simulation](https://github.com/dwarning/VA-Models)
 * https://www.analog.com/en/education/education-library/tutorials/mixed-signal-electronics-systems.html
 ## Embedded systems design (WIP)
-
-### Books
 
 ### Tools
 * [CubeIDE](https://www.st.com/content/st_com/en/stm32cubeide.html) : STM32 development tool
 
 * [PuTTY](https://www.putty.org/) or [Hercules](https://www.hw-group.com/software/hercules-setup-utility) : Serial port terminal
 
-### Docs
 ## PCB design
 
 ### Books
@@ -234,8 +222,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Mon premier PCB avec KiCad](https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K) FRENCH ONLY ❤
 * [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf) ⭐️⭐️⭐️
 * [PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
-* [KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐⭐️
-* [Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) ⭐
 
 ### Tools
 * [KiCad](https://www.kicad.org/)
@@ -254,9 +240,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 * [Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) ⭐⭐
 * [Digital Signal Processing, MIT](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) ⭐⭐
-* [Digital communications tutorial](https://complextoreal.com/tutorials/) + [Book](https://www.inference.org.uk/itprnn/book.pdf)
-### Tools
-
 
 ### Docs
 [DSP posts](https://zipcpu.com/dsp/dsp.html)
@@ -285,24 +268,32 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 [CS50 Harvard](https://www.youtube.com/watch?v=8mAITcNt710) ⭐⭐
 
-### Tools
-
-### Docs
 ## Protocols (WIP)
-
-### Books
 
 ### Free resources
 * [UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8) ⭐⭐⭐
-* [CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
-* [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
-
-### Tools
+* [CAN Protocol](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
+* [AMBA Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
 
 ### Docs
-* [I2C Protocol, Texas Instruments](https://github.com/victorbouvet/Roadmap/blob/fffa16ed34aa63b05956932c9e818c2bff4855f5/Documentations/Protocols/slva704.pdf)
-* [AMBA AXI Protocol](https://developer.arm.com/documentation/ihi0022/latest)
-* [AMBA AHB Protocol](https://developer.arm.com/documentation/ihi0033/latest)
+* [I2C Protocol, Texas Instruments]
+* (https://github.com/victorbouvet/Roadmap/blob/fffa16ed34aa63b05956932c9e818c2bff4855f5/Documentations/Protocols/slva704.pdf)
+* AMBA protocol: [AMBA AXI Protocol](https://developer.arm.com/documentation/ihi0022/latest) + [AMBA AHB Protocol](https://developer.arm.com/documentation/ihi0033/latest)
 
 ## Authors
 - [@victorbouvet](https://github.com/victorbouvet)
+
+
+
+## OLD STUFF
+[Semiconductors explained](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7)
+[Electric EDA](https://www.staticfreesoft.com/)
+[Digital communications tutorial](https://complextoreal.com/tutorials/) + [Book](https://www.inference.org.uk/itprnn/book.pdf)
+[Getting to Blinky](https://www.youtube.com/playlist?list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) ⭐
+[KiCad Tutorial](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) ⭐⭐️
+[CppSim](https://www.cppsim.com/) : Tool to perform system-level simulations of complex mixed-signal circuits
+[FPGA design with Verilog tutorial](https://verilogguide.readthedocs.io/en/latest/)
+* Digital Design by Wakerly  
+&emsp;Acquire advanced knowledge of digital design
+* CMOS VLSI Design by Neil Weste and David Harris  
+&emsp;Read 3rd chapter carefully
