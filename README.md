@@ -26,11 +26,11 @@ To evaluate each resource presented in this document, I have set up a rating sys
 ⭐ : Possibilities (useful in specific cases)
 
 ## Useful softwares any EE student should know
-* Programming languages: C, Python, Matlab/Octave
+* Programming languages: [C](https://learnxinyminutes.com/docs/c/), [Python](https://learnxinyminutes.com/docs/python/), [Matlab/Octave](https://learnxinyminutes.com/docs/matlab/)
 * VSCode
-* Git
-* Unix commands & Bash scripting
-* Docker
+* [Git](https://learnxinyminutes.com/docs/git/)
+* Unix commands & [Bash scripting](https://learnxinyminutes.com/docs/bash/)
+* [Docker](https://learnxinyminutes.com/docs/docker/)
 
 ## Electronics equipment
 <details>
