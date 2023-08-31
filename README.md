@@ -297,12 +297,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [CAN Bus](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
 * [AMBA AXI Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
 
-## Authors
-- [@victorbouvet](https://github.com/victorbouvet)
-
 ### Tools
 
 ### Docs
 * [I2C Protocol, Texas Instruments](https://github.com/victorbouvet/Roadmap/blob/fffa16ed34aa63b05956932c9e818c2bff4855f5/Documentations/Protocols/slva704.pdf)
 * [AMBA AXI Protocol](https://developer.arm.com/documentation/ihi0022/latest)
 * [AMBA AHB Protocol](https://developer.arm.com/documentation/ihi0033/latest)
+
+## Authors
+- [@victorbouvet](https://github.com/victorbouvet)
