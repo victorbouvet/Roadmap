@@ -20,7 +20,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * Programming languages: [C](https://learnxinyminutes.com/docs/c/), [Python](https://learnxinyminutes.com/docs/python/), [Matlab/Octave](https://learnxinyminutes.com/docs/matlab/)
 * VSCode
 * [Git](https://learnxinyminutes.com/docs/git/)
-* Unix commands & [Bash scripting](https://learnxinyminutes.com/docs/bash/)
+* [Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/) & [Bash scripting](https://learnxinyminutes.com/docs/bash/)
 * [Docker](https://learnxinyminutes.com/docs/docker/)
 
 ## Electronics equipment
@@ -130,11 +130,11 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Tools
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software
-* [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) : Same as LTspice by the same creator [direct installation link](https://getqspice.com/InstallQSPICE.exe)
+* [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) : Same as LTspice by the same creator ([direct installation link](https://getqspice.com/InstallQSPICE.exe))
 * [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) : IC design, schematic and layout EDA software
 * [Open Circuit Design](http://opencircuitdesign.com/) : Open-source circuit design softwares (Magic: Layout tool, XCircuit: Circuit drawing tool)
 * [XSchem](https://xschem.sourceforge.io/stefan/index.html) : Free schematic circuit editor like Virtuoso - [Webinar](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
-* [Electric](https://www.staticfreesoft.com/index.html)
+
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
 * [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
