@@ -18,7 +18,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ## Useful softwares any EE student should know
 * Programming languages: [C](https://learnxinyminutes.com/docs/c/), [Python](https://learnxinyminutes.com/docs/python/), [Matlab/Octave](https://learnxinyminutes.com/docs/matlab/)
-* VSCode
+* VSCode/VSCodium
 * [Git](https://learnxinyminutes.com/docs/git/)
 * [Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/) & [Bash scripting](https://learnxinyminutes.com/docs/bash/) + text editor (I recommend vim (see [1](https://youtu.be/X6AR2RMB5tE?si=wv_l5NNK3oiy3pzR) and [2](https://www.youtube.com/watch?v=-txKSRn0qeA) + vimtutor command), nano or gedit
 * [Docker](https://learnxinyminutes.com/docs/docker/)
