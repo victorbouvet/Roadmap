@@ -158,9 +158,8 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Tools
 * [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software ([CLI usage](https://itsembedded.com/dhd/vivado_sim_1/))
 * [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
-* [TerosHDL](https://terostechnology.github.io/terosHDLdoc/) : Open-source toolbox
+* [TerosHDL](https://terostechnology.github.io/terosHDLdoc/) : Open-source toolbox ([VSG](https://github.com/jeremiah-c-leary/vhdl-style-guide), [cocotb](https://www.cocotb.org/), [GTKWave](https://github.com/gtkwave/gtkwave), etc)
 * [Verilator](https://www.veripool.org/verilator/) : Verilog/SystemVerilog to C/C++ simulator
-* [cocotb](https://www.cocotb.org/) : VHDL/Verilog verification simulator in Python
 
 * [WaveDrom](https://wavedrom.com/) : Waveforms generator
 ## Computer Architecture
