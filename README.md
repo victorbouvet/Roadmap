@@ -22,6 +22,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * [Git](https://learnxinyminutes.com/docs/git/)
 * [Unix commands](http://www.ee.surrey.ac.uk/Teaching/Unix/) & [Bash scripting](https://learnxinyminutes.com/docs/bash/) + text editor (I recommend vim (see [1](https://youtu.be/X6AR2RMB5tE?si=wv_l5NNK3oiy3pzR) and [2](https://www.youtube.com/watch?v=-txKSRn0qeA) + vimtutor command), nano or gedit
 * [Docker](https://learnxinyminutes.com/docs/docker/)
+* [make](https://learnxinyminutes.com/docs/make/) and [CMake](https://learnxinyminutes.com/docs/cmake/)
 
 ## Electronics equipment
 <details>
@@ -158,12 +159,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Tools
 * [Xilinx Vivado](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html) : FPGA programming software
 * [EDA Playground](https://www.edaplayground.com/) : Free IDE for SystemVerilog, Verilog, VHDL
-* [TerosHDL](https://terostechnology.github.io/terosHDLdoc/) : Open-source toolbox ([VSG](https://github.com/jeremiah-c-leary/vhdl-style-guide), [cocotb](https://www.cocotb.org/), [GTKWave](https://github.com/gtkwave/gtkwave), etc)
+* [TerosHDL](https://terostechnology.github.io/terosHDLdoc/) : Open-source toolbox ([GHDL](http://ghdl.free.fr/), [GTKWave](https://github.com/gtkwave/gtkwave))
 * [Verilator](https://www.veripool.org/verilator/) : Verilog/SystemVerilog to C/C++ simulator
 * [WaveDrom](https://wavedrom.com/) : Waveforms generator
 
 ### Docs
-* [How to use Vivado][https://docs.xilinx.com/r/en-US/ug893-vivado-ide/Launching-the-Vivado-IDE-on-Windows)
+* [How to use Vivado](https://docs.xilinx.com/r/en-US/ug893-vivado-ide/Launching-the-Vivado-IDE-on-Windows)
 * TCL Scripting with Vivado : [TCL Scripting](https://docs.xilinx.com/r/en-US/ug894-vivado-tcl-scripting/Tcl-Scripting-in-Vivado), [TCL quick reference](https://docs.xilinx.com/v/u/en-US/ug975-vivado-quick-reference), [Commands list](https://docs.xilinx.com/r/en-US/ug835-vivado-tcl-commands/Introduction), [CLI usage](https://itsembedded.com/dhd/vivado_sim_1/)
 
 ## Computer Architecture
@@ -182,7 +183,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ### Tools
-* [make](https://learnxinyminutes.com/docs/make/) and [CMake](https://learnxinyminutes.com/docs/cmake/)
 * RISC-V tools:  
 &emsp;[WARP-V](https://warp-v.org/) : Open-source RISC-V core  
 &emsp;[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V  
@@ -199,10 +199,6 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Books
 * Design of CMOS Phased-Locked Loops, B. Razavi ⭐
 * [PLL Performance, Simulation and Design, D. Banerjee](https://github.com/victorbouvet/Roadmap/blob/0d517c3513db8de11338bbcdbf5398d94f320ac1/Documentations/Mixed-Signal%20design/PLL%20Design%20Book.pdf) ⭐
-
-### Tools
-* [NGSpice](https://ngspice.sourceforge.io/osdi.html): Free Verilog-AMS (hardware description language that can model both analog and digital) simulator
-* [Xyce](https://xyce.sandia.gov/documentation-tutorials/xyce-adms-users-guide/) + [ADMS](https://github.com/Qucs/ADMS) : Same as NGSPicew with Verilog-A and Verilog-AMS
 
 ### Docs
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
@@ -222,7 +218,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * [Adafruit Guide To Excellent Soldering, B. Earl](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-guide-excellent-soldering.pdf) : Complete tutorial to soldering ❤️
 
 ## Free resources
-* [Mon premier PCB avec KiCad](https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K) FRENCH ONLY ❤
+* [Mon premier PCB avec KiCad](https://www.youtube.com/playlist?list=PLuQznwVAhY2XyLtk11MdgLkLk3thxQi8K) FRENCH ONLY ❤️
 * [The Hitchhiker's Guide to PCB Design](https://github.com/victorbouvet/Roadmap/blob/bb77284a2cd2f3d3ad969b95160d8cb8e860b078/Documentations/PCB%20design/the-hitchhikers-guide-to-pcb-design_compressed.pdf) ⭐️⭐️⭐️
 * [PCB Design Tutorial](https://www.youtube.com/watch?v=aVUqaB0IMh4) ❤️
 
@@ -232,13 +228,12 @@ To understand these resources, you need a solid grounding in fundamental electro
 
 ### Docs
 * [Getting started in Kicad](https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.pdf)
-* [Schematic design tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/schematic_review_tips/)
-* [PCB Layout tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/pcb_review_tips/)
-* [BOM list tips](https://www.reddit.com/r/PrintedCircuitBoard/wiki/bom_review_tips/)
+* Tips: [Schematic design](https://www.reddit.com/r/PrintedCircuitBoard/wiki/schematic_review_tips/), [PCB Layout](https://www.reddit.com/r/PrintedCircuitBoard/wiki/pcb_review_tips/), [BOM list](https://www.reddit.com/r/PrintedCircuitBoard/wiki/bom_review_tips/)
 ## Digital signal processing (WIP)
 
 ### Books
 * [The Scientist and Engineer's Guide to Digital Signal Processing](https://doc.lagout.org/science/0_Computer%20Science/9_Others/1_Digital%20Signal%20Processing/The%20Scientist%20and%20Engineer%27s%20Guide%20to%20DSP.pdf) ❤️
+* [Introduction to Signal Processing]()
 
 ### Free resources
 * [Signals and Systems, MIT](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) ⭐⭐
@@ -276,12 +271,11 @@ To understand these resources, you need a solid grounding in fundamental electro
 ### Free resources
 * [UART, I2C, SPI](https://www.youtube.com/watch?v=IyGwvGzrqp8) ⭐⭐⭐
 * [CAN Protocol](https://www.youtube.com/watch?v=JZSCzRT9TTo&t=21s) ⭐
-* [AMBA Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐ + https://github.com/adki/AMBA_AXI_AHB_APB
+* [AMBA Protocol](https://zipcpu.com/blog/2022/05/07/learning-axi.html) ⭐
 
 ### Docs
-* [I2C Protocol, Texas Instruments]
-* (https://github.com/victorbouvet/Roadmap/blob/fffa16ed34aa63b05956932c9e818c2bff4855f5/Documentations/Protocols/slva704.pdf)
-* AMBA protocol: [AMBA AXI Protocol](https://developer.arm.com/documentation/ihi0022/latest) + [AMBA AHB Protocol](https://developer.arm.com/documentation/ihi0033/latest)
+* [I2C Protocol, Texas Instruments](https://github.com/victorbouvet/Roadmap/blob/fffa16ed34aa63b05956932c9e818c2bff4855f5/Documentations/Protocols/slva704.pdf)
+* ARM's AMBA protocol: [AMBA AXI Protocol](https://developer.arm.com/documentation/ihi0022/latest) + [AMBA AHB Protocol](https://developer.arm.com/documentation/ihi0033/latest)
 
 ## Authors
 - [@victorbouvet](https://github.com/victorbouvet)
@@ -302,3 +296,7 @@ To understand these resources, you need a solid grounding in fundamental electro
 * CMOS VLSI Design by Neil Weste and David Harris  
 &emsp;Read 3rd chapter carefully
 or [Sigasi](https://www.sigasi.com/) : VHDL verification tool OR [OSVVM](https://osvvm.org/) :
+
+### Tools
+* [NGSpice](https://ngspice.sourceforge.io/osdi.html): Free Verilog-AMS (hardware description language that can model both analog and digital) simulator
+* [Xyce](https://xyce.sandia.gov/documentation-tutorials/xyce-adms-users-guide/) + [ADMS](https://github.com/Qucs/ADMS) : Same as NGSPicew with Verilog-A and Verilog-AMS
