@@ -75,7 +75,7 @@ To evaluate each resource presented in this document, I have set up a rating sys
 * [All About Circuits](https://www.allaboutcircuits.com/technical-articles/) : Community of electrical engineers with hundreds of technical articles
 * [Open Tetxbook Library](https://open.umn.edu/opentextbooks/subjects/electrical) : Free electrical/electronics engineering textbooks
 
-## Basic of electronics and Semiconductors theory
+## [Basic of electronics and Semiconductors theory](https://github.com/victorbouvet/Roadmap/blob/main/Electronics%20basics.md)
 
 ## [Analog Design](https://github.com/victorbouvet/Roadmap/blob/2251bccbaeea43dd007d0c90a2ae3983c3fb887e/Analog%20Design.md)
 
