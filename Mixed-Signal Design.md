@@ -4,6 +4,9 @@
 * Design of CMOS Phased-Locked Loops, B. Razavi ⭐
 * [PLL Performance, Simulation and Design, D. Banerjee](https://github.com/victorbouvet/Roadmap/blob/0d517c3513db8de11338bbcdbf5398d94f320ac1/Documentations/Mixed-Signal%20design/PLL%20Design%20Book.pdf) ⭐
 
+### Free ressources
+[Broadband Circuit Design](https://people.engr.tamu.edu/spalermo/ecen620.html)
+
 ### Docs
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
 * [Verilog-AMS](https://verilogams.com/index.html) : Verilog-AMS tutorials + [Verilog-A Models for Circuit Simulation](https://github.com/dwarning/VA-Models)

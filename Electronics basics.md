@@ -4,6 +4,9 @@
 * Getting started in electronics, F. Mims ⭐️⭐️
 * [Analog's Engineer Pocket Reference, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Engineer%E2%80%99s%20Pocket%20Reference%20Guide%20.pdf) : Quick guide for formulas ⭐️
 
+### Free ressources
+[Electronics courses](https://people.engr.tamu.edu/spalermo/ecen325.html)
+
 ### Tools
 * [Falstad circuit simulator](https://www.falstad.com/circuit/)
 

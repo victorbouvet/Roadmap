@@ -30,6 +30,7 @@
 ### Free resources
 * [Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️
 * [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
+* [Electronics II](https://people.engr.tamu.edu/spalermo/ecen326.html) + [VLSI Circuit Design](https://people.engr.tamu.edu/spalermo/ecen474.html)
 * [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
 * [OpAmp Project in Cadence](add link)
 
