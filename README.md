@@ -100,17 +100,17 @@ To evaluate each resource presented in this document, I have set up a rating sys
 
 ## [Analog Design](https://github.com/victorbouvet/Roadmap/blob/2251bccbaeea43dd007d0c90a2ae3983c3fb887e/Analog%20Design.md)
 
-## Digital Design
+## [Digital Design](https://github.com/victorbouvet/Roadmap/blob/main/Digital%20Design.md)
 
-## Computer Architecture
+## [Computer Architecture](https://github.com/victorbouvet/Roadmap/blob/main/Computer%20Architecture)
 
-## Mixed-Signal Design 
+## [Mixed-Signal Design ](https://github.com/victorbouvet/Roadmap/blob/main/Mixed-Signal%20Design)
 
-## PCB Design
+## [PCB Design](https://github.com/victorbouvet/Roadmap/blob/main/PCB%20Design)
 
-## Digital Signal Processing
+## [Digital Signal Processing](https://github.com/victorbouvet/Roadmap/blob/main/DSP)
 
-## RF Design
+## [RF Design](https://github.com/victorbouvet/Roadmap/blob/main/RF%20Design)
 
 ## Programming (WIP)
 
