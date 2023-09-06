@@ -2,26 +2,26 @@
 
 ### Introduction
 
-[Introduction to CMOS Analog Circuit Design, Philip Allen](add link)
+[Introduction to CMOS Analog Circuit Design, Philip Allen](https://drive.google.com/drive/u/0/folders/17jLstyvV0XPjQZeTdlFn99MtTKkojdpV)
 [ntroduction to Analog IC Design](https://drive.google.com/file/d/1d1gdfgMIvZOywWhfwNaWBI2fNJjF2fAG/view)
 
 ### Books
-* Fundamentals of Microelectronics, B. Razavi ❤️  
+* [Fundamentals of Microelectronics, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiTvp7UvJMIRg1cfxGowbCTKSokGaXYa) ❤️  
       &emsp;Beginner level - Theoretical, very clear with Razavi's lectures (see Fundamentals of Microelectronics lectures, Razavi)
 
-* Microelectronic circuits, A. Sedra & K.  Smith ❤️
+* [Microelectronic circuits, A. Sedra & K.  Smith](https://drive.google.com/drive/u/0/folders/1Agu1EAjyzBwdywvoijiWTo-l5B0S9EsT) ❤️
       &emsp;Beginner level - Theoretical, easy to understand with good theory
 
-* Design of Analog CMOS Integrated Circuit, B. Razavi ⭐⭐⭐  
+* [Design of Analog CMOS Integrated Circuit, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiWrcyY6uhbGpdgMWdUAENtganiTqRNd) ⭐⭐⭐  
       &emsp;Intermediate level - Theoretical/Practical
 
-* CMOS Analog Circuit Design, P. Allen & D. Holberg ⭐⭐  
+* [CMOS Analog Circuit Design, P. Allen & D. Holberg](https://drive.google.com/drive/u/0/folders/1Zj9Uajr7s2tDALf-gRasLkawo7xiXdBr) ⭐⭐  
       &emsp;Intermediate level - Pratical, great for learning practical analog design 
 
-* Analysis and design of analog integrated circuits, P. Gray ⭐  
+* [Analysis and design of analog integrated circuits, P. Gray](https://drive.google.com/file/d/1SARlcm93GtsyOHRR5HRGNEd4_8djqrWg) ⭐  
       &emsp;Advanced, standard analog bipolar+cmos device physics, simple and slightly more complex circuits
 
-* CMOS: Circuit Design, Layout, and Simulation, R. Baker ⭐  
+* [CMOS: Circuit Design, Layout, and Simulation, R. Baker](https://drive.google.com/file/d/1qkRxpPPY1-nMCJHXcVLwerWVo5xhosUQ) ⭐  
       &emsp;Advanced level - Pratical, a lot of pratical and circuit design
 
 * The Art of Analog Layout, A. Hastings ⭐⭐⭐  
@@ -30,7 +30,7 @@
 ### Free resources
 * [Fundamentals of Microelectronics lectures, Razavi](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️
 * [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
-* [Electronics II](https://people.engr.tamu.edu/spalermo/ecen326.html) + [VLSI Circuit Design](https://people.engr.tamu.edu/spalermo/ecen474.html)
+* [Electronics II](https://people.engr.tamu.edu/spalermo/ecen326.html) + [VLSI Circuit Design](https://drive.google.com/drive/u/0/folders/1mPmrPDz4Pgnby51QSDOCAPPOY8ZqkyI0)
 * [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
 * [OpAmp Project in Cadence](add link)
 
@@ -41,10 +41,11 @@
 
 ### Docs
 * [CMOSedu.com](https://cmosedu.com/)
-* [A Circuit for all seasons, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/1e38719193fd49f83b672b1e18d9cfaddb081ba0/Documentations/Analog%20design/Behzad%20Razavi/A%20Circuit%20For%20All%20Seaons)
-* [The Analog Mind, B. Razavi](https://github.com/victorbouvet/Roadmap/tree/main/Documentations/Analog%20design/Behzad%20Razavi/The%20Analog%20Mind)
+* [A Circuit for all seasons, B. Razavi](https://drive.google.com/drive/u/0/folders/1idJK3I58IjKNrjH9AD8zLBhVS-xSATrY)
+* [The Analog Mind, B. Razavi](https://drive.google.com/drive/u/0/folders/1j6cd_JVSvbXcOrjQgI7X9OBglr5XEIV0)
+* [A designer's guide to innovative linear circuits, Jim Williams](https://drive.google.com/file/d/17P2qwq6WrXuiMagptsuK3v2ZJUjXf5Og/view?usp=sharing)
 * [Designers Guide](https://designers-guide.org/) : Community of Analog, Mixed-Signal and RF designers
-* [OP Amp Cookbook, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Circuit_Cookbook_Op_Amp.pdf) + [Handbook of Op Amps](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/HANDBOOK%20OF%20OPERATIONAL%20AMPLIFIER%20APPLICATIONS.pdf) : Op Amps circuits books
+* [OP Amp Cookbook, TI](https://drive.google.com/file/d/1bTRYaLehYS1npCcOmmnahu7dpOw2-LzW/view?usp=sharing) + [Handbook of Op Amps](https://drive.google.com/file/d/1XpGWLmvA4lBEQxAK_WfvCSqFStuvIgCD/view?usp=sharing) : Op Amps circuits books
 * https://www.analog.com/en/education/education-library/tutorials/analog-electronics.html
-* [Analog Design Layout](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Layout%20Design.pdf) : Compilation of various documentation of analog layout stuff
+* [Analog Design Layout](https://drive.google.com/file/d/1emb0WL4aBkrTSchsvBNII7m6hm7V_z2F/view?usp=sharing) : Compilation of various documentation of analog layout stuff
 * [Cadence OpAmp Verification](https://www.youtube.com/playlist?list=PLNc4_VomSgRGJtpa66HTBfYsnqr6opFd7)
