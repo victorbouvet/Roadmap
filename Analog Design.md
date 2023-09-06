@@ -30,7 +30,6 @@
 * [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
 * [Electronics II](https://people.engr.tamu.edu/spalermo/ecen326.html) + [VLSI Circuit Design](https://drive.google.com/drive/u/0/folders/1mPmrPDz4Pgnby51QSDOCAPPOY8ZqkyI0)
 * [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
-* [OpAmp Project in Cadence](add link)
 
 ## Tools
 * [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software OR [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice): Same creator as LTSpice ([Direct installation link](https://getqspice.com/InstallQSPICE.exe))
