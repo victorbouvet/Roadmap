@@ -46,4 +46,3 @@
 * [OP Amp Cookbook, TI](https://drive.google.com/file/d/1bTRYaLehYS1npCcOmmnahu7dpOw2-LzW/view?usp=sharing) + [Handbook of Op Amps](https://drive.google.com/file/d/1XpGWLmvA4lBEQxAK_WfvCSqFStuvIgCD/view?usp=sharing) : Op Amps circuits books
 * [Analog electronics tutorials, Analog Devices](https://www.analog.com/en/education/education-library/tutorials/analog-electronics.html)
 * [Analog Design Layout](https://drive.google.com/file/d/1emb0WL4aBkrTSchsvBNII7m6hm7V_z2F/view?usp=sharing): Compilation of various documentation of analog layout stuff
-* [Cadence OpAmp Verification](https://www.youtube.com/playlist?list=PLNc4_VomSgRGJtpa66HTBfYsnqr6opFd7)
