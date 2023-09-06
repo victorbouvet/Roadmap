@@ -3,7 +3,7 @@
 ### Introduction
 
 [Introduction to CMOS Analog Circuit Design, Philip Allen](https://drive.google.com/drive/u/0/folders/17jLstyvV0XPjQZeTdlFn99MtTKkojdpV)  
-[ntroduction to Analog IC Design](https://drive.google.com/file/d/1d1gdfgMIvZOywWhfwNaWBI2fNJjF2fAG/view)
+[Introduction to Analog IC Design](https://drive.google.com/file/d/1d1gdfgMIvZOywWhfwNaWBI2fNJjF2fAG/view)  
 
 ### Books
 * [Fundamentals of Microelectronics, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiTvp7UvJMIRg1cfxGowbCTKSokGaXYa) ❤️  
