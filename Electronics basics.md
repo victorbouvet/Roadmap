@@ -1,8 +1,8 @@
 # Basics electronics
 ### Books
-* Practical Electronics for Inventors, P. Scherz ⭐️⭐️⭐️
-* Getting started in electronics, F. Mims ⭐️⭐️
-* [Analog's Engineer Pocket Reference, TI](https://github.com/victorbouvet/Roadmap/blob/016ae45148803e66964440f50d623fe73b21783e/Documentations/Analog%20design/Analog%20Engineer%E2%80%99s%20Pocket%20Reference%20Guide%20.pdf) : Quick guide for formulas ⭐️
+* [Practical Electronics for Inventors, P. Scherz](https://drive.google.com/file/d/1BQB1GHWGsPziufQtDZa_XshyENHDWLAT/view?usp=drive_link) ⭐️⭐️⭐️
+* [Getting started in electronics, F. Mims](https://drive.google.com/file/d/1yl2jySsSQGPSO0FE5w_QGD5Rr83Ak5Mr/view?usp=drive_link) ⭐️⭐️
+* [Analog's Engineer Pocket Reference, TI](https://drive.google.com/file/d/1WVT5JBEYLzE-Ng_7QT5JkDujigUUGvJZ/view?usp=drive_link) : Quick guide for formulas ⭐️
 
 ### Free ressources
 [Electronics courses](https://people.engr.tamu.edu/spalermo/ecen325.html)
@@ -12,7 +12,7 @@
 
 ## Semiconductors theory
 ### Books
-* [Semiconductors & Transistors: An overview of theory, fabrication and application](https://github.com/victorbouvet/Roadmap/blob/4ae5053c6a56e19f460265719a8ffb5ce964754c/Documentations/Semiconductors%20%26%20Transistors%20Final%20Paper.pdf)
+* [Semiconductors & Transistors: An overview of theory, fabrication and application](https://drive.google.com/file/d/1a_P4ijKevwQKtC3etdNoEyOfozo25p66/view?usp=drive_link)
 
 ### Free resources
 * Semiconductors theory  
