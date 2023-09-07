@@ -18,13 +18,16 @@
       &emsp;Intermediate level - Practical, great for learning practical analog design 
 
 * [Analysis and design of analog integrated circuits, P. Gray](https://drive.google.com/file/d/1SARlcm93GtsyOHRR5HRGNEd4_8djqrWg) ⭐  
-      &emsp;Advanced, standard analog bipolar+cmos device physics, simple and slightly more complex circuits
+      &emsp;Advanced, complete book on analog design, hard to read
 
 * [CMOS: Circuit Design, Layout, and Simulation, R. Baker](https://drive.google.com/file/d/1qkRxpPPY1-nMCJHXcVLwerWVo5xhosUQ) + [CMOSedu.com](https://cmosedu.com/) ⭐  
       &emsp;Advanced level - Practical, a lot of practical and circuit design
 
-* [Analysis and Design of Elementary MOS Amplifier Stages](https://drive.google.com/file/d/13o8gnBqfxNykwSXCZjrvr6JNm1WXF4_c)
-  &emsp; Intermediate - Practical, a small book that covers the basics of amplifiers
+* [Analysis and Design of Elementary MOS Amplifier Stages](https://drive.google.com/file/d/13o8gnBqfxNykwSXCZjrvr6JNm1WXF4_c) ⭐  
+  &emsp; Intermediate - Practical, a small book  ideal for remembering the basics of amplifiers
+
+* [Systematic Design of Analog CMOS Circuits](https://drive.google.com/file/d/1zKKluBIUwAF3Rp25go3JzNu7dYgom77S/view?usp=drive_link) ⭐  
+  &emsp; Intermediate - Pratical, a small book ideal for learning gm/Id design methodology
 
 ## Free resources
 * [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
