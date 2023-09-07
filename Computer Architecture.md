@@ -9,8 +9,8 @@
 &emsp;Second book, more advanced
 
 ### Free resources
-* [Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
-* [Computer Architecture - ETH Zürich](https://www.youtube.com/watch?v=VcKjvwD930o&list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
+* [Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule) : First course ⭐⭐⭐
+* [Computer Architecture - ETH Zürich](https://www.youtube.com/watch?v=VcKjvwD930o&list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/architecture/fall2023/doku.php?id=schedule) : Second course ⭐
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ### Tools
