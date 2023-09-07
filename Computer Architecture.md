@@ -16,6 +16,8 @@
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ## Tools
+* ARM
+&emsp; [Graphical Micro-Architecture Simulator](https://drive.google.com/drive/folders/1ZwBh0Hk_Uf61rxIBoqanmZNbQLchoz06?usp=drive_link)
 * RISC-V tools  
 &emsp;[WARP-V](https://warp-v.org/) : Open-source RISC-V core  
 &emsp;[Ripes](https://github.com/mortbopet/Ripes.git) : Visual computer architecture simulator using RISC-V  
