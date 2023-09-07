@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Introduction to CMOS Analog Circuit Design, Philip Allen](https://drive.google.com/drive/u/0/folders/17jLstyvV0XPjQZeTdlFn99MtTKkojdpV)  
+[Introduction to CMOS Analog Circuit Design, Philip Allen](https://drive.google.com/file/d/1OQbtheIe7QCeOZiTUuUIXh9X-pPvOvlR/view?usp=drivesdk)  
 
 ## Books
 * [Fundamentals of Microelectronics, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiTvp7UvJMIRg1cfxGowbCTKSokGaXYa) + [Videos](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️  
@@ -12,7 +12,7 @@
       &emsp;Beginner level - Theoretical, easy to understand with good theory
 
 * [Design of Analog CMOS Integrated Circuit, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiWrcyY6uhbGpdgMWdUAENtganiTqRNd) + [Lectures](https://drive.google.com/drive/u/0/folders/1nMrB9c3_HL9xtgxcBznPXDkC9fP-wG2s) ⭐⭐⭐  
-      &emsp;Intermediate level - Theoretical/Practical
+      &emsp;Intermediate level - Theoretical/Practical, very good book
 
 * [CMOS Analog Circuit Design, P. Allen & D. Holberg](https://drive.google.com/drive/u/0/folders/1Zj9Uajr7s2tDALf-gRasLkawo7xiXdBr) + [Lectures](https://drive.google.com/drive/u/0/folders/17jLstyvV0XPjQZeTdlFn99MtTKkojdpV) ⭐⭐  
       &emsp;Intermediate level - Practical, great for learning practical analog design 
