@@ -6,7 +6,7 @@
 
 ## Books
 * [Fundamentals of Microelectronics, B. Razavi](https://drive.google.com/drive/u/0/folders/1ZiTvp7UvJMIRg1cfxGowbCTKSokGaXYa) + [Videos](https://youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) ❤️  
-      &emsp;Beginner level - Theoretical, very clear with Razavi's lectures (see Fundamentals of Microelectronics lectures, Razavi)
+      &emsp;Beginner level - Theoretical, very clear with Razavi's lectures
 
 * [Microelectronic circuits, A. Sedra & K.  Smith](https://drive.google.com/drive/u/0/folders/1Agu1EAjyzBwdywvoijiWTo-l5B0S9EsT) ❤️  
       &emsp;Beginner level - Theoretical, easy to understand with good theory
