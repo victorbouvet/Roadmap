@@ -1,8 +1,10 @@
 ## Digital design
 
 ### Books
-* Digital Design, M. Morris ❤️
+* Digital Design, M. Morris ❤️  
 &emsp;Clear, easy-to-understand information
+* [Free Range VHDL](https://drive.google.com/file/d/1efY92UC_KgLXTRx8Hlyw18nmEy5KkhyV/view?usp=sharing)  ⭐⭐  
+&emsp; A guide about understanding VHDL and writing solid VHDL code
 
 ### Free resources
 * [Nandland](https://nandland.com) : Exceptional tutorial on FPGAs, VHDL and Verilog ❤️
