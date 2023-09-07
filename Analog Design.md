@@ -30,20 +30,23 @@
   &emsp; Intermediate - Pratical, a small book ideal for learning gm/Id design methodology
 
 ## Free resources
-* [New Analog Circuit Design, Ali Hajimiri - Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
-* [Electronics II](https://people.engr.tamu.edu/spalermo/ecen326.html) + [VLSI Circuit Design](https://drive.google.com/drive/u/0/folders/1mPmrPDz4Pgnby51QSDOCAPPOY8ZqkyI0)
-* [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git)
+* [New Analog Circuit Design, Ali Hajimiri - Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) ⭐⭐⭐
+* [VLSI Circuit Design Lectures](https://drive.google.com/drive/u/0/folders/1mPmrPDz4Pgnby51QSDOCAPPOY8ZqkyI0) ⭐
+* [VLSI Education Kit, ARM](https://github.com/arm-university/VLSI-Fundamentals-Education-Kit.git) ⭐
 
 ## Tools
-* [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) : Free electronic circuit simulation software OR [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice): Same creator as LTSpice ([Direct installation link](https://getqspice.com/InstallQSPICE.exe))
-* [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html): IC design, schematic and layout EDA software OR [XSchem](https://xschem.sourceforge.io/stefan/index.html): Free schematic circuit editor - [Tutorial](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
-* [Open Circuit Design](http://opencircuitdesign.com/): Open-source circuit design software (Magic: Layout tool, XCircuit: Circuit drawing tool)
+* [LTSpice](om/en/design-center/design-tools-and-calculators/ltspice-simulator.html) OR [QSpice](https://www.qorvo.com/design-hub/design-tools/interactive/qspice) ([Direct installation link](https://getqspice.com/InstallQSPICE.exe))  
+  &emsp; Free electronic circuit simulation softwares
+* [Cadence Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html) ([Docs](https://drive.google.com/drive/folders/1hZk89yMPB8lOwgGXU-tLGcw2FaTFZYFz?usp=drive_link)) OR [XSchem](https://xschem.sourceforge.io/stefan/index.html) (free - [Tutorial](https://www.youtube.com/watch?v=q3ZcpSkVVuc))  
+  &emsp; IC design, schematic and layout EDA software
+* [Open Circuit Design](http://opencircuitdesign.com/)  
+  &emsp; Open-source circuit design software (Magic: Layout tool, XCircuit: Circuit drawing tool)
 
 ## Docs
 * [A Circuit for all seasons, B. Razavi](https://drive.google.com/drive/u/0/folders/1idJK3I58IjKNrjH9AD8zLBhVS-xSATrY)
 * [The Analog Mind, B. Razavi](https://drive.google.com/drive/u/0/folders/1j6cd_JVSvbXcOrjQgI7X9OBglr5XEIV0)
 * [A designer's guide to innovative linear circuits, Jim Williams](https://drive.google.com/file/d/17P2qwq6WrXuiMagptsuK3v2ZJUjXf5Og/view?usp=sharing)
-* [Designers Guide](https://designers-guide.org/): Community of Analog, Mixed-Signal and RF designers
-* [OP Amp Cookbook, TI](https://drive.google.com/file/d/1bTRYaLehYS1npCcOmmnahu7dpOw2-LzW/view?usp=sharing) + [Handbook of Op Amps](https://drive.google.com/file/d/1XpGWLmvA4lBEQxAK_WfvCSqFStuvIgCD/view?usp=sharing) : Op Amps circuits books
+* [Designers Guide - Community of Analog, Mixed-Signal and RF designers](https://designers-guide.org/)
+* [OP Amp Cookbook, TI](https://drive.google.com/file/d/1bTRYaLehYS1npCcOmmnahu7dpOw2-LzW/view?usp=sharing) + [Handbook of Op Amps](https://drive.google.com/file/d/1XpGWLmvA4lBEQxAK_WfvCSqFStuvIgCD/view?usp=sharing) 
 * [Analog electronics tutorials, Analog Devices](https://www.analog.com/en/education/education-library/tutorials/analog-electronics.html)
-* [Analog Design Layout](https://drive.google.com/file/d/1emb0WL4aBkrTSchsvBNII7m6hm7V_z2F/view?usp=sharing): Compilation of various documentation of analog layout stuff
+* [Analog Design Layout Compilation](https://drive.google.com/file/d/1emb0WL4aBkrTSchsvBNII7m6hm7V_z2F/view?usp=sharing)
