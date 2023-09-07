@@ -1,16 +1,16 @@
 # Computer Architecture
 
 ### Books
-* Processor Microarchitecture: An Implementation Perspective, A. Gonzalez ⭐⭐⭐  
+* [Processor Microarchitecture: An Implementation Perspective, A. Gonzalez](https://drive.google.com/file/d/1t16Z7g40b3D2FhSQYjsbbubuRT3f5Ncq/view?usp=drive_link) ⭐⭐⭐  
 &emsp;A good starting book
-* Computer Organization and Design - RISC-V Edition, Patterson & Henessy ❤️  
+* [Computer Organization and Design - RISC-V Edition, Patterson & Hennessy](https://drive.google.com/file/d/1g5084zQl1rht45y5ysFzewLuau2Qw2f-/view?usp=drive_link) ❤️  
 &emsp; First book
-* Computer Architecture: A Quantitative Approach, Patterson & Hennessy ⭐⭐  
+* [Computer Architecture: A Quantitative Approach, Patterson & Hennessy](https://drive.google.com/file/d/1oia5wUTSh3CBh6u5QcullHaC8R2VUOlY/view?usp=drive_link) ⭐⭐  
 &emsp;Second book, more advanced
 
 ### Free resources
 * [Digital Design and Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=start) : First course ⭐⭐⭐
-* [Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
+* [Computer Architecture - ETH Zürich](https://www.youtube.com/watch?v=VcKjvwD930o&list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf) + [Materials](https://safari.ethz.ch/architecture/fall2022/doku.php?id=schedule) : Second course ⭐
 * [Introduction to Computer architecture, ARM](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit.git)
 
 ### Tools
